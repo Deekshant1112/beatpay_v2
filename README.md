@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 BeatPay v2 — Live Club Song Bidding System
 
 Real-time song bidding platform for clubs. DJ controls rounds, users bid on songs live.
@@ -176,3 +177,6 @@ await client.messages.create({
   to: `+91${mobile}`
 });
 ```
+=======
+# beatpay_v2
+>>>>>>> 457f8717fe69b1e60c24be05d3d036e730690f8b
